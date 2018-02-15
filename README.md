@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pretty Majestic
 
 You can use the [editor on GitHub](https://github.com/Lifesaver1414/Pretty-Majestic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
