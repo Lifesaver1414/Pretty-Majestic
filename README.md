@@ -7,10 +7,11 @@
 ## Great Hair
 
   <Body> Looking for commercial success? Boom. Amazing hair.
+  
+<img src="http://www.one-quest.com/wp-content/uploads/2012/12/Christmas-Gandalf.jpg" alt="text">	
 
+  <body> Holidays coming up? Here I am. I shall wish you a happy holidays precisely when I need to. </body>
 
+<img src="http://themetapicture.com/media/funny-Gandalf-GoT-meth-LotR.jpg" alt="text">	
 
-# Header 1
-## Header 2
-### Header 3
-
+  <body> Need a drug awareness campaign? Your welcome. You see marijuana? Fly you fool. </body>
