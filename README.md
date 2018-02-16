@@ -10,8 +10,10 @@
   
 <img src="http://www.one-quest.com/wp-content/uploads/2012/12/Christmas-Gandalf.jpg" alt="text">	
 
+## Rockin' the Santa look
   <body> Holidays coming up? Here I am. I shall wish you a happy holidays precisely when I need to. </body>
 
 <img src="http://themetapicture.com/media/funny-Gandalf-GoT-meth-LotR.jpg" alt="text">	
 
+## Corruption in the Hearts of Men
   <body> Need a drug awareness campaign? Your welcome. You see marijuana? Fly you fool. </body>
