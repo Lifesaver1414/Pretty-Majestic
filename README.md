@@ -17,3 +17,11 @@
 
 ## Corruption in the Hearts of Men
   <body> Need a drug awareness campaign? Your welcome. You see marijuana? Fly you fool. </body>
+
+<a href="https://lifesaver1414.github.io/Lifelesson/"> Lifelesson </a>
+
+<a href="https://lifesaver1414.github.io/Past-Residences/"> Past Residences </a>
+
+<a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
+
+<a href="https://lifesaver1414.github.io/Sources/"> Sources </a>
